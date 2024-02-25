@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\CalculatorWithEvents\bin\Debug\net6.0\CalculatorWithEvents.exe
+C:\Users\User\Desktop\CalculatorWithEvents\bin\Debug\net6.0\CalculatorWithEvents.deps.json
+C:\Users\User\Desktop\CalculatorWithEvents\bin\Debug\net6.0\CalculatorWithEvents.runtimeconfig.json
+C:\Users\User\Desktop\CalculatorWithEvents\bin\Debug\net6.0\CalculatorWithEvents.dll
+C:\Users\User\Desktop\CalculatorWithEvents\bin\Debug\net6.0\CalculatorWithEvents.pdb
+C:\Users\User\Desktop\CalculatorWithEvents\obj\Debug\net6.0\CalculatorWithEvents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\CalculatorWithEvents\obj\Debug\net6.0\CalculatorWithEvents.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\CalculatorWithEvents\obj\Debug\net6.0\CalculatorWithEvents.AssemblyInfo.cs
+C:\Users\User\Desktop\CalculatorWithEvents\obj\Debug\net6.0\CalculatorWithEvents.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CalculatorWithEvents\obj\Debug\net6.0\CalculatorWithEvents.dll
+C:\Users\User\Desktop\CalculatorWithEvents\obj\Debug\net6.0\refint\CalculatorWithEvents.dll
+C:\Users\User\Desktop\CalculatorWithEvents\obj\Debug\net6.0\CalculatorWithEvents.pdb
+C:\Users\User\Desktop\CalculatorWithEvents\obj\Debug\net6.0\CalculatorWithEvents.genruntimeconfig.cache
+C:\Users\User\Desktop\CalculatorWithEvents\obj\Debug\net6.0\ref\CalculatorWithEvents.dll
